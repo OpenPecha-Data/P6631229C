@@ -1,0 +1,329 @@
+id: 2f189299c72c497fbd6bbe2b4dca9d7e
+annotation_type: index
+revision: '00001'
+annotations:
+  ea2bc530158049539b110a7424430dbd:
+    work_id: JT1
+    parts:
+      3f72686aefdf442db98ffe6cf314c51e:
+        work_id: JT1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 782986
+    span:
+    - vol: 1
+      start: 0
+      end: 782986
+  42d913f343d646069bd7769809a169b2:
+    work_id: JT80
+    parts:
+      bab241ffe6c54f4f92e7513dd547aeda:
+        work_id: JT80-2
+        span:
+        - vol: 2
+          start: 2133
+          end: 264733
+    span:
+    - vol: 2
+      start: 2133
+      end: 264733
+  f4dce989186b411286e2e6fcfb2bbdb7:
+    work_id: JT98
+    parts:
+      816846f32f1f433682fd40a7f3567f10:
+        work_id: JT98-3
+        span:
+        - vol: 3
+          start: 233
+          end: 711867
+    span:
+    - vol: 3
+      start: 233
+      end: 711867
+  665c6e28cdba4a4bb1d61ef022c85350:
+    work_id: JT100
+    parts:
+      e7a91360567a4eeeb4f409c77201a77d:
+        work_id: JT100-4
+        span:
+        - vol: 4
+          start: 680
+          end: 137822
+    span:
+    - vol: 4
+      start: 680
+      end: 137822
+  cb9dfc1879d04e199ede0e4b66473393:
+    work_id: JT111
+    parts:
+      d7e6bc6b25ad4ee78f68509b4b2dfffb:
+        work_id: JT111-5
+        span:
+        - vol: 5
+          start: 1029
+          end: 46006
+    span:
+    - vol: 5
+      start: 1029
+      end: 46006
+  a52f5b1d9eeb48a6a323b7bb9ddb1ccd:
+    work_id: JT122
+    parts:
+      961b083317ac430fbb5ccbf72c8a404d:
+        work_id: JT122-6
+        span:
+        - vol: 6
+          start: 1575
+          end: 176829
+    span:
+    - vol: 6
+      start: 1575
+      end: 176829
+  626b52d0c59345619568ab52f9c3d393:
+    work_id: JT144
+    parts:
+      0642cd905ad745af8349d9f97e101b33:
+        work_id: JT144-7
+        span:
+        - vol: 7
+          start: 1273
+          end: 39705
+    span:
+    - vol: 7
+      start: 1273
+      end: 39705
+  22bcdc8c163f479485e4411b02dd15c2:
+    work_id: JT166
+    parts:
+      7441d438702b4110a252052f6a006683:
+        work_id: JT166-8
+        span:
+        - vol: 8
+          start: 0
+          end: 428326
+    span:
+    - vol: 8
+      start: 0
+      end: 428326
+  6a6a1093a2ae4fd3b138829da692e344:
+    work_id: JT173
+    parts:
+      a582da28456544b3bb7bd2ad7a1d30ee:
+        work_id: JT173-9
+        span:
+        - vol: 9
+          start: 171
+          end: 36981
+    span:
+    - vol: 9
+      start: 171
+      end: 36981
+  2178ba676ff3401aa71204512298c36f:
+    work_id: JT175
+    parts:
+      5e37d37fc7234873a4a3ed44a24a9a13:
+        work_id: JT175-10
+        span:
+        - vol: 10
+          start: 1486
+          end: 135641
+    span:
+    - vol: 10
+      start: 1486
+      end: 135641
+  5c279355dd4f443c935f2e1dd9054d06:
+    work_id: JT198
+    parts:
+      af05bceda0f9441692eb9198100560d4:
+        work_id: JT198-11
+        span:
+        - vol: 11
+          start: 1597
+          end: 79519
+    span:
+    - vol: 11
+      start: 1597
+      end: 79519
+  7803fd3d30bb48d1b2fc21820aa8ae9d:
+    work_id: JT220
+    parts:
+      dd37d02a307c48f1ac0d63cf3385f77d:
+        work_id: JT220-12
+        span:
+        - vol: 12
+          start: 2031
+          end: 50241
+    span:
+    - vol: 12
+      start: 2031
+      end: 50241
+  125c3fabd17c4fd48aaa06e4f6fd28a7:
+    work_id: JT252
+    parts:
+      31caee274f4244ae833769c4f8c5887b:
+        work_id: JT252-13
+        span:
+        - vol: 13
+          start: 1378
+          end: 21425
+    span:
+    - vol: 13
+      start: 1378
+      end: 21425
+  e90fb784b1d14d5da9368f0bc7f5bb55:
+    work_id: JT271
+    parts:
+      74aeccfb1d91468cbbc37268058bd548:
+        work_id: JT271-14
+        span:
+        - vol: 14
+          start: 3057
+          end: 29418
+    span:
+    - vol: 14
+      start: 3057
+      end: 29418
+  104243f787a647a1987a100045b58809:
+    work_id: JT330
+    parts:
+      db15645b111a4584a479d70cdf768002:
+        work_id: JT330-15
+        span:
+        - vol: 15
+          start: 321
+          end: 1266854
+    span:
+    - vol: 15
+      start: 321
+      end: 1266854
+  c836e2e42f784d0bb60416ff8508ff38:
+    work_id: JT332
+    parts:
+      478d91e1f279490d972fe4059a9b4280:
+        work_id: JT332-16
+        span:
+        - vol: 16
+          start: 0
+          end: 7168
+    span:
+    - vol: 16
+      start: 0
+      end: 7168
+  11c38baa82c741799fb63bf48782be19:
+    work_id: JT336
+    parts:
+      b369f16d34b944f281d8e4068ca79b58:
+        work_id: JT336-17
+        span:
+        - vol: 17
+          start: 1513
+          end: 180711
+    span:
+    - vol: 17
+      start: 1513
+      end: 180711
+  e54a409322724ef286f3282ec7e95f76:
+    work_id: JT360
+    parts:
+      2e9a206f1a8142f694ed666845d1a36d:
+        work_id: JT360-18
+        span:
+        - vol: 18
+          start: 986
+          end: 5127
+    span:
+    - vol: 18
+      start: 986
+      end: 5127
+  434da5f005cb477c9b414c0d93e670ac:
+    work_id: JT379
+    parts:
+      e5b28691de3647fa99982736bf143877:
+        work_id: JT379-19
+        span:
+        - vol: 19
+          start: 269
+          end: 33058
+    span:
+    - vol: 19
+      start: 269
+      end: 33058
+  ba578d39d98449488498e094db9f26ab:
+    work_id: JT383
+    parts:
+      d3deb3ca68a2471e91dfa8e387731be6:
+        work_id: JT383-20
+        span:
+        - vol: 20
+          start: 3555
+          end: 8364
+    span:
+    - vol: 20
+      start: 3555
+      end: 8364
+  6d4caa8fbec340cebe4a9a16834936a4:
+    work_id: JT421
+    parts:
+      91699eac410f491da69a16fd12f4b73c:
+        work_id: JT421-21
+        span:
+        - vol: 21
+          start: 3329
+          end: 124916
+    span:
+    - vol: 21
+      start: 3329
+      end: 124916
+  a9b44b7bdab34e58bb12452f7c982615:
+    work_id: JT459
+    parts:
+      98421a4fff8b4e27993872f4cd38d09d:
+        work_id: JT459-22
+        span:
+        - vol: 22
+          start: 0
+          end: ''
+    span:
+    - vol: 22
+      start: 0
+      end: ''
+  e80988ca668f45729cf2c8d7ef74647e:
+    work_id: JT460
+    parts:
+      0b9df04196574795b303e561bd4b9b24:
+        work_id: JT460-23
+        span:
+        - vol: 23
+          start: 1876
+          end: 4697
+    span:
+    - vol: 23
+      start: 1876
+      end: 4697
+  a85eedf4a03f42aba8cdc0c470c0e40a:
+    work_id: JT490
+    parts:
+      a682ef660ea14f90baae4d3f035eb726:
+        work_id: JT490-24
+        span:
+        - vol: 24
+          start: 0
+          end: 8345
+    span:
+    - vol: 24
+      start: 0
+      end: 8345
+  b30dd125738a42479d1ee5e0c7082cf1:
+    work_id: JT597
+    parts:
+      26990bb2e771490eb2f9e25082932edf:
+        work_id: JT597-25
+        span:
+        - vol: 25
+          start: 0
+          end: 18239
+    span:
+    - vol: 25
+      start: 0
+      end: 18239
